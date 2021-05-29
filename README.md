@@ -1,5 +1,5 @@
 # Web-Scrapping-using-BeautifulSoup
-## Scraping Top Repositories for Topics on GitHub
+## Scrapping Top Repositories for Topics on GitHub
 
 #### Introduction:
 
